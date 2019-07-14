@@ -1,0 +1,1 @@
+# Project Sample [![Build Status](https://travis-ci.org/Artischock/Task3Travis.svg?branch=master)](https://travis-ci.org/Artischock/Task3Travis)
